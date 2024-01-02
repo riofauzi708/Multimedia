@@ -1,2 +1,2 @@
 # Multimedia
-Gudang animasi dan presentasi
+animasi dan presentasi
